@@ -24,6 +24,17 @@ You can run the experiments directly in Google Colab:
 - OpenCV, Pillow, NumPy, Pandas, Matplotlib  
 - Google Colab environment (recommended)
 
+## 📁 Repository Structure
+
+| Folder / File | Description |
+|----------------|-------------|
+| `notebooks/data_prep.ipynb` | Converts TIFF images to JPG/PNG and prepares tiled datasets (4× and 16×). |
+| `notebooks/alexnet_train.ipynb` | Trains AlexNet from scratch on any prepared dataset. |
+| `notebooks/densenet_train.ipynb` | Trains DenseNet-121 from scratch on any prepared dataset. |
+| `notebooks/augment_mirroring_train.ipynb` | Applies mirroring augmentation and trains the selected CNN. |
+| `notebooks/augment_rotation_train.ipynb` | Applies rotation augmentation (fixed or random) and trains the CNN. |
+| `notebooks/augment_noise_train.ipynb` | Applies Gaussian, Salt-and-Pepper, and Poisson noise augmentation and trains the CNN. |
+
 ---
 
 ## 📦 License
