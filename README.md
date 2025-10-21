@@ -48,4 +48,4 @@ If you use this repository or its methods in your research, please cite:
 
 ---
 
-📧 For questions or collaborations, contact: **[your.email@domain]**
+📧 For questions or collaborations, contact: **[dtbouk@uni9.edu.br]**
