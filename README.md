@@ -35,8 +35,8 @@ You are free to use, modify, and distribute it with proper attribution.
 ## 🧾 Citation
 If you use this repository or its methods in your research, please cite:
 
-> Boukouvalas, D. *et al.* (2025). *Impact of Image Quality and Data Augmentation on CNN Performance for Microorganism Classification.*  
-> GitHub repository: [https://github.com/your-username/microlab-cnn](https://github.com/your-username/microlab-cnn)
+> Boukouvalas, D.T. *et al.* (2025). *Impact of Image Quality and Data Augmentation on CNN Performance for Microorganism Classification.*  
+> GitHub repository: [https://github.com/dtbouk-droid/microlab-cnn](https://github.com/dtbouk-droid/microlab-cnn)
 
 ---
 
