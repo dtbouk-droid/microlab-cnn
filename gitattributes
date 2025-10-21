@@ -1,0 +1,8 @@
+# Make Jupyter notebooks diff-friendly in PRs
+*.ipynb filter=nbstripout
+
+# Treat common text files as text
+*.md text eol=lf
+*.py text eol=lf
+*.yml text eol=lf
+*.yaml text eol=lf
